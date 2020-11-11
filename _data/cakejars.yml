@@ -1,0 +1,21 @@
+- title: Strawberry
+  description: Strawberry cake with lots of strawberries
+  img-url: /assets/img/cakejars/cakejars-01.jpeg
+  price: Rs. 240
+  weight: 0.5 kg
+
+- title: Pineapple
+  description: Pineapple cake with lots of fruits and veggies
+  img-url: /assets/img/cakejars/cakejars-02.jpeg
+  price: Rs. 180
+  weight: 0.5 kg
+
+- title: Dark Forest
+  description: Dark Forest cake with lots of chocolate crust
+  img-url: /assets/img/cakejars/cakejars-03.jpeg
+  price: Rs. 280
+  weight: 0.5 kg
+
+- title: Vinegar
+  description: Vinegar vine
+  img-url: /assets/img/cakejars/cakejars-04.jpeg

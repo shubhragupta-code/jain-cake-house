@@ -1,0 +1,33 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+# url: http://yoursite.com
+baseurl: jain-cake-house
+title: Jain Cake House
+email: your-email@domain.com
+author: Shubhra Gupta
+description: > # "Write an awesome description for your new site here.
+  Eggless cakes' varieties offered to you by us.
+copyright: 'Copyright &copy; 2020 Shubhra Gupta. All Rights Reserved.'
+credits: 'Credits: This website uses Landing Page Jekyll theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com
+  - title: facebook
+    url: https://facebook.com
+  - title: instagram
+    url: https://instagram.com

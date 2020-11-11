@@ -1,0 +1,25 @@
+- title: Strawberry
+  description: Strawberry cake with lots of strawberries
+  img-url: /assets/img/cupcakes/cupcakes-01.jpeg
+  price: Rs. 340
+  weight: 0.5 kg
+
+- title: Pineapple
+  description: Pineapple cake with lots of fruits and veggies
+  img-url: /assets/img/cupcakes/cupcakes-02.jpeg
+  price: Rs. 280
+  weight: 0.5 kg
+
+- title: Dark Forest
+  description: Dark Forest cake with lots of chocolate crust
+  img-url: /assets/img/cupcakes/cupcakes-03.jpeg
+  price: Rs. 380
+  weight: 0.5 kg
+
+- title: Vinegar
+  description: Vinegar vine
+  img-url: /assets/img/cupcakes/cupcakes-04.jpeg
+
+- title: Vnilaa
+  description: Vanilaa Skyy
+  img-url: /assets/img/cupcakes/cupcakes-05.jpeg
