@@ -45,7 +45,9 @@ h6 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     background-color: #cc5200;
+    border-radius: 25px;
     font-size: 5em;
+    opacity: 0.8;
 }
 
 .intro-divider {
@@ -87,6 +89,10 @@ h6 {
     font-size: 14px;
     font-weight: 400;
     letter-spacing: 2px;
+}
+
+.content-section {
+  padding-left: 100px;
 }
 
 .content-section-a {

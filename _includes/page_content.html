@@ -1,5 +1,8 @@
 <section id="services">
 <!-- Page Content -->
+<div class="content-section">
+  <h3><strong>Here are some of the options available in our menu.</strong></h3>
+</div>
 {% for post in site.posts reversed %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}

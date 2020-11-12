@@ -18,7 +18,7 @@
                     <a class="page-scroll" href="#about">About</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#services">Services</a>
+                    <a class="page-scroll" href="#services">Menu</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#contact">Contact</a>
@@ -45,11 +45,11 @@
 						<ul class="list-inline intro-social-buttons">
 							{% for social in site.social %}
 							<li>
-								<a href="{{ social.url }}" class="btn btn-default btn-xs"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span></a>
+								<a href="{{ social.url }}" class="btn btn-default btn-xs"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name"></span></a>
 							</li>
 							{% endfor %}
 						</ul>
-            <h3>Mobile No: 9999999999</h3>
+            <span class="network-name"><h3>Mobile No: 9999999999</h3></span>
 					</div>
 				</div>
 			</div>
