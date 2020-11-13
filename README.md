@@ -1,5 +1,5 @@
 # Jain Cake House
-
+This website can be viewed on [this page](https://shubhragupta-code.github.io/jain-cake-house/).
 This website is based on Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
 ===
